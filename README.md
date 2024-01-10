@@ -17,7 +17,7 @@
 
 ## Tutorial Links
 
-#### [GitHub Repository to watch](https://github.com/Nelson-iitp/CS515/){:target="\_blank" rel="noopener"}
+#### [GitHub Repository to watch](https://github.com/Nelson-iitp/CS515/)
 
 ### Lab 1 (05.01.2023)
 
