@@ -1,4 +1,4 @@
-# CS515
+# CS515: Computer Systems Lab 2
 
 ## Modules
 
@@ -17,7 +17,7 @@
 
 ## Tutorial Links
 
-### [GitHub Repository to follow](https://github.com/Nelson-iitp/CS515/)
+#### [GitHub Repository to follow](https://github.com/Nelson-iitp/CS515/)
 
 ### Lab 1 (05.01.2023)
 
