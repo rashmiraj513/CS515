@@ -23,3 +23,5 @@
 
 - [Python Basics](https://www.w3schools.com/python/python_comments.asp)
 - [Data Modelling](https://docs.python.org/3/reference/datamodel.html)
+- [Numpy & Numpy Arrays](https://www.w3schools.com/python/numpy/default.asp)
+- [Numpy Array Official Documentation](https://numpy.org/doc/stable/reference/generated/numpy.array.html)
