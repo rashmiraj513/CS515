@@ -25,3 +25,6 @@
 - [Data Modelling](https://docs.python.org/3/reference/datamodel.html)
 - [Numpy & Numpy Arrays](https://www.w3schools.com/python/numpy/default.asp)
 - [Numpy Array Official Documentation](https://numpy.org/doc/stable/reference/generated/numpy.array.html)
+
+### Lab 2 (12.01.2023)
+- [OOPS in Python](https://www.geeksforgeeks.org/python-oops-concepts/)
