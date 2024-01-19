@@ -28,3 +28,6 @@
 
 ### Lab 2 (12.01.2023)
 - [OOPS in Python](https://www.geeksforgeeks.org/python-oops-concepts/)
+
+### Lab 3 (19.01.2023)
+- [Data Structures in Python](https://www.geeksforgeeks.org/python-data-structures/)
