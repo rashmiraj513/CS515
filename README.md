@@ -19,15 +19,18 @@
 
 #### [GitHub Repository to watch](https://github.com/Nelson-iitp/CS515/)
 
-### Lab 1 (05.01.2023)
+### Lab 1 (05.01.2024)
 
 - [Python Basics](https://www.w3schools.com/python/python_comments.asp)
 - [Data Modelling](https://docs.python.org/3/reference/datamodel.html)
 - [Numpy & Numpy Arrays](https://www.w3schools.com/python/numpy/default.asp)
 - [Numpy Array Official Documentation](https://numpy.org/doc/stable/reference/generated/numpy.array.html)
 
-### Lab 2 (12.01.2023)
+### Lab 2 (12.01.2024)
 - [OOPS in Python](https://www.geeksforgeeks.org/python-oops-concepts/)
 
-### Lab 3 (19.01.2023)
+### Lab 3 (19.01.2024)
 - [Data Structures in Python](https://www.geeksforgeeks.org/python-data-structures/)
+
+### Lab 4 (09.02.2024)
+- [Stack & Queues]
