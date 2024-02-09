@@ -33,4 +33,4 @@
 - [Data Structures in Python](https://www.geeksforgeeks.org/python-data-structures/)
 
 ### Lab 4 (09.02.2024)
-- [Stack & Queues]
+- Stack & Queues
