@@ -34,3 +34,6 @@
 
 ### Lab 4 (09.02.2024)
 - Stack & Queues
+
+### Lab 5 (16.02.2024)
+- Binary Tree & Binary Search Trees
