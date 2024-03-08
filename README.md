@@ -37,3 +37,9 @@
 
 ### Lab 5 (16.02.2024)
 - Binary Tree & Binary Search Trees
+
+### Lab 6 (01.03.2024)
+- OOPs in Python
+
+### Lab 7 (08.03.2024)
+- Graph using NetworkX package
