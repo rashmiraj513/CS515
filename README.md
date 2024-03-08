@@ -27,19 +27,25 @@
 - [Numpy Array Official Documentation](https://numpy.org/doc/stable/reference/generated/numpy.array.html)
 
 ### Lab 2 (12.01.2024)
+
 - [OOPS in Python](https://www.geeksforgeeks.org/python-oops-concepts/)
 
 ### Lab 3 (19.01.2024)
+
 - [Data Structures in Python](https://www.geeksforgeeks.org/python-data-structures/)
 
 ### Lab 4 (09.02.2024)
+
 - Stack & Queues
 
 ### Lab 5 (16.02.2024)
+
 - Binary Tree & Binary Search Trees
 
 ### Lab 6 (01.03.2024)
+
 - OOPs in Python
 
 ### Lab 7 (08.03.2024)
-- Graph using NetworkX package
+
+- Graph using [NetworkX](https://networkx.org/) package
