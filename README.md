@@ -43,3 +43,6 @@
 
 ### Lab 7 (08.03.2024)
 - Graph using NetworkX package
+
+### Lab 8 (15.03.2024)
+- Graph Optimization
