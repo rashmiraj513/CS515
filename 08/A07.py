@@ -13,7 +13,16 @@ __all__ = ['min_cost_nodes', 'optimal_assignment', 'k_max_clusters']
 #------------------------------------------------------------------------------
 
 def min_cost_nodes(nodes: dict[Node,Cost], edges:set[(Node, Node)]) -> set[Node]: 
-    #<--- must return a set of nodes (vertices)
+    """
+    Find the minimum cost nodes that satisfy adjacency constraints.
+
+    Args:
+        nodes_costs (dict): A dictionary mapping nodes to their costs.
+        edges (set): A set of edges representing adjacency between nodes.
+
+    Returns:
+        set: A set of selected nodes that satisfy adjacency constraints.
+    """
     # Sort the nodes based on their costs in ascending order
     sorted_nodes = sorted(nodes.items(), key=lambda x: x[1])
 
@@ -31,11 +40,22 @@ def min_cost_nodes(nodes: dict[Node,Cost], edges:set[(Node, Node)]) -> set[Node]
 
     return selected_nodes, total_cost
 
+
 #------------------------------------------------------------------------------
 # [Q2] Solution
 #------------------------------------------------------------------------------
 
 def optimal_assignment(available:dict[Flavour, Quantity], choices:dict[Customer, set[Flavour]]) -> dict[Customer, Union[Flavour, None]]:
+    """
+    Assign optimal flavours to customers based on their preferences and availability.
+
+    Args:
+        available_flavours (dict): A dictionary mapping available flavours to their quantities.
+        customer_choices (dict): A dictionary mapping customers to their flavour preferences.
+
+    Returns:
+        dict: A dictionary mapping customers to their assigned flavour or None if no flavour can be assigned.
+    """
     num_customers = len(choices)
     num_flavours = len(available)
 
@@ -64,14 +84,35 @@ def optimal_assignment(available:dict[Flavour, Quantity], choices:dict[Customer,
 
     return assignment
 
+
 #------------------------------------------------------------------------------
 # [Q3] Solution
 #------------------------------------------------------------------------------
 
 def euclidean_distance(p1: Point, p2: Point) -> float:
+    """
+    Calculate the Euclidean distance between two points.
+
+    Args:
+        p1 (Point): The first point.
+        p2 (Point): The second point.
+
+    Returns:
+        float: The Euclidean distance between p1 and p2.
+    """
     return math.sqrt(sum((x1 - x2) ** 2 for x1, x2 in zip(p1, p2)))
 
-def k_max_clusters(k:int, points:Iterable[Point]) -> list[Iterable[Point]]:
+def k_max_clusters(k: int, points: Iterable[Point]) -> list[Iterable[Point]]:
+    """
+    Cluster points using Kruskal's algorithm to create k maximum clusters.
+
+    Args:
+        k (int): The number of clusters to create.
+        points (Iterable): Iterable containing points.
+
+    Returns:
+        list: A list of k maximum clusters.
+    """
     # Calculate the pairwise distances between points
     distances = {(p1, p2): euclidean_distance(p1, p2) for p1, p2 in combinations(points, 2)}
     
