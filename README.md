@@ -47,12 +47,13 @@
 - OOPs in Python
 
 ### Lab 7 (08.03.2024)
-<<<<<<< HEAD
-- Graph using NetworkX package
-
-### Lab 8 (15.03.2024)
-- Graph Optimization
-=======
 
 - Graph using [NetworkX](https://networkx.org/) package
->>>>>>> 7e96c8726397f8681ad18806fc9d762c46167109
+
+### Lab 8 (15.03.2024)
+
+- Graph Optimization
+
+### Lab 9 (22.03.2024)
+
+- Linear Programming using `linprog` function of [Scipy](https://scipy.org/) package
