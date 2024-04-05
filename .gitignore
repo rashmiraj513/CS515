@@ -162,3 +162,6 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+
+Aggregated_Traffic_Models.ipynb
+Annotated - Aggregated_Traffic_Models_for_Real-World_Data_in_the_Internet_of_Things.pdf
