@@ -57,3 +57,7 @@
 ### Lab 9 (22.03.2024)
 
 - Linear Programming using `linprog` function of [Scipy](https://scipy.org/) package
+
+### Lab 10 (05.04.2024)
+
+- Linear Programming using [Pulp](https://pypi.org/project/PuLP/) package
