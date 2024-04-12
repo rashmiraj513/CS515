@@ -61,3 +61,7 @@
 ### Lab 10 (05.04.2024)
 
 - Linear Programming using [Pulp](https://pypi.org/project/PuLP/) package
+
+### Lab 11 (12.04.2024)
+
+- Machine Learning using [scikit-learn](https://scikit-learn.org/stable)
